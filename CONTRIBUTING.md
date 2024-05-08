@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Contributing to Cognitive Disorders Research Lab
+# Contributing to the Pappada Lab
 
 First off, thanks for taking the time to contribute! ❤️
 
